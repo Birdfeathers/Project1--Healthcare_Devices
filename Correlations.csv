@@ -1,0 +1,106 @@
+,Variable 1,Variable 2,Correlation
+220,death_counts_total,death_counts_Circulatory diseases,0.9912962897489931
+222,death_counts_total,death_counts_Other select causes,0.9754939571619516
+190,death_counts_Other select causes,death_counts_Circulatory diseases,0.969858994516119
+149,death_counts_Alzheimer disease and dementia,death_counts_total,0.958586847342813
+209,death_counts_Respiratory diseases,death_counts_total,0.9577251752349474
+145,death_counts_Alzheimer disease and dementia,death_counts_Circulatory diseases,0.9489348688361327
+189,death_counts_Other select causes,death_counts_Alzheimer disease and dementia,0.9351659819551005
+163,death_counts_Circulatory diseases,death_counts_Respiratory diseases,0.9313432864755866
+123,drug_sales_total,drug_sales_Pyrazolones and Anilides,0.9303898121646654
+193,death_counts_Other select causes,death_counts_Respiratory diseases,0.921674722342246
+204,death_counts_Respiratory diseases,death_counts_Alzheimer disease and dementia,0.863650247232693
+146,death_counts_Alzheimer disease and dementia,death_counts_Malignant neoplasms,0.7261711437759789
+221,death_counts_total,death_counts_Malignant neoplasms,0.7100116845471028
+175,death_counts_Malignant neoplasms,death_counts_Circulatory diseases,0.6822184352951732
+177,death_counts_Malignant neoplasms,death_counts_Other select causes,0.6649126057770669
+98,drug_sales_Drugs for Obstructive Airway Diseases,drug_sales_total,0.5936069649467071
+206,death_counts_Respiratory diseases,death_counts_Malignant neoplasms,0.5756913019644452
+121,drug_sales_total,drug_sales_Propionic Acid Derivatives,0.47725895804037594
+122,drug_sales_total,drug_sales_Salicylic Acid and Derivatives,0.4760186608553061
+68,drug_sales_Anxiolytic Drugs,drug_sales_total,0.4624281077250698
+188,death_counts_Other select causes,drug_sales_total,0.4569332916417603
+57,drug_sales_Pyrazolones and Anilides,death_counts_Other select causes,0.44452606460795907
+56,drug_sales_Pyrazolones and Anilides,death_counts_Malignant neoplasms,0.43634805532916826
+130,drug_sales_total,death_counts_Circulatory diseases,0.4261020224041164
+134,drug_sales_total,death_counts_total,0.4232440515274656
+102,drug_sales_Drugs for Obstructive Airway Diseases,death_counts_Other select causes,0.41516347089743194
+93,drug_sales_Drugs for Obstructive Airway Diseases,drug_sales_Pyrazolones and Anilides,0.4147347152128128
+173,death_counts_Malignant neoplasms,drug_sales_total,0.41151307089317396
+153,death_counts_Circulatory diseases,drug_sales_Pyrazolones and Anilides,0.41031579493832415
+59,drug_sales_Pyrazolones and Anilides,death_counts_total,0.40941358325895316
+141,death_counts_Alzheimer disease and dementia,drug_sales_Drugs for Obstructive Airway Diseases,0.40662578906376723
+156,death_counts_Circulatory diseases,drug_sales_Drugs for Obstructive Airway Diseases,0.40567561261729096
+129,drug_sales_total,death_counts_Alzheimer disease and dementia,0.4039026732537151
+138,death_counts_Alzheimer disease and dementia,drug_sales_Pyrazolones and Anilides,0.40359055433654395
+18,drug_sales_Propionic Acid Derivatives,drug_sales_Pyrazolones and Anilides,0.40148241101323623
+33,drug_sales_Salicylic Acid and Derivatives,drug_sales_Pyrazolones and Anilides,0.3940021507112203
+104,drug_sales_Drugs for Obstructive Airway Diseases,death_counts_total,0.3927039053995195
+171,death_counts_Malignant neoplasms,drug_sales_Drugs for Obstructive Airway Diseases,0.35958172442524133
+133,drug_sales_total,death_counts_Respiratory diseases,0.35784215744152925
+198,death_counts_Respiratory diseases,drug_sales_Pyrazolones and Anilides,0.3316343471038797
+17,drug_sales_Propionic Acid Derivatives,drug_sales_Salicylic Acid and Derivatives,0.3154526672032066
+2,drug_sales_Acetic Acid Derivatives,drug_sales_Salicylic Acid and Derivatives,0.30970914204813027
+201,death_counts_Respiratory diseases,drug_sales_Drugs for Obstructive Airway Diseases,0.30848052331965076
+65,drug_sales_Anxiolytic Drugs,drug_sales_Hypnotics and Sedatives Drugs,0.29381067920109233
+34,drug_sales_Salicylic Acid and Derivatives,drug_sales_Anxiolytic Drugs,0.2933652097436045
+120,drug_sales_total,drug_sales_Acetic Acid Derivatives,0.26969697398870945
+63,drug_sales_Anxiolytic Drugs,drug_sales_Pyrazolones and Anilides,0.24300796729391996
+95,drug_sales_Drugs for Obstructive Airway Diseases,drug_sales_Hypnotics and Sedatives Drugs,0.237632305921176
+125,drug_sales_total,drug_sales_Hypnotics and Sedatives Drugs,0.23744486200941325
+94,drug_sales_Drugs for Obstructive Airway Diseases,drug_sales_Anxiolytic Drugs,0.20555610015825182
+184,death_counts_Other select causes,drug_sales_Anxiolytic Drugs,0.2008529116505991
+197,death_counts_Respiratory diseases,drug_sales_Salicylic Acid and Derivatives,0.19924822643575116
+74,drug_sales_Anxiolytic Drugs,death_counts_total,0.1956237256319265
+69,drug_sales_Anxiolytic Drugs,death_counts_Alzheimer disease and dementia,0.19185608600615442
+73,drug_sales_Anxiolytic Drugs,death_counts_Respiratory diseases,0.1887928406655559
+70,drug_sales_Anxiolytic Drugs,death_counts_Circulatory diseases,0.1870322908039158
+196,death_counts_Respiratory diseases,drug_sales_Propionic Acid Derivatives,0.18480633896164442
+19,drug_sales_Propionic Acid Derivatives,drug_sales_Anxiolytic Drugs,0.18126696707054832
+181,death_counts_Other select causes,drug_sales_Propionic Acid Derivatives,0.18010217958496536
+21,drug_sales_Propionic Acid Derivatives,drug_sales_Drugs for Obstructive Airway Diseases,0.17645633501292923
+29,drug_sales_Propionic Acid Derivatives,death_counts_total,0.17164041024100876
+1,drug_sales_Acetic Acid Derivatives,drug_sales_Propionic Acid Derivatives,0.1672204347469813
+151,death_counts_Circulatory diseases,drug_sales_Propionic Acid Derivatives,0.16375955726141103
+166,death_counts_Malignant neoplasms,drug_sales_Propionic Acid Derivatives,0.1602590566287384
+3,drug_sales_Acetic Acid Derivatives,drug_sales_Pyrazolones and Anilides,0.15738092187032826
+42,drug_sales_Salicylic Acid and Derivatives,death_counts_Other select causes,0.14836324816690005
+169,death_counts_Malignant neoplasms,drug_sales_Anxiolytic Drugs,0.14783773777179385
+212,death_counts_total,drug_sales_Salicylic Acid and Derivatives,0.1438632598671546
+167,death_counts_Malignant neoplasms,drug_sales_Salicylic Acid and Derivatives,0.12769031090137847
+78,drug_sales_Hypnotics and Sedatives Drugs,drug_sales_Pyrazolones and Anilides,0.12526074199668602
+152,death_counts_Circulatory diseases,drug_sales_Salicylic Acid and Derivatives,0.12311145642752476
+24,drug_sales_Propionic Acid Derivatives,death_counts_Alzheimer disease and dementia,0.12001633226444418
+4,drug_sales_Acetic Acid Derivatives,drug_sales_Anxiolytic Drugs,0.1080073715789703
+140,death_counts_Alzheimer disease and dementia,drug_sales_Hypnotics and Sedatives Drugs,0.1043398942439552
+155,death_counts_Circulatory diseases,drug_sales_Hypnotics and Sedatives Drugs,0.1031017630232226
+185,death_counts_Other select causes,drug_sales_Hypnotics and Sedatives Drugs,0.07597763681306383
+89,drug_sales_Hypnotics and Sedatives Drugs,death_counts_total,0.07522838410390112
+20,drug_sales_Propionic Acid Derivatives,drug_sales_Hypnotics and Sedatives Drugs,0.06617434163776355
+39,drug_sales_Salicylic Acid and Derivatives,death_counts_Alzheimer disease and dementia,0.05909532443987858
+5,drug_sales_Acetic Acid Derivatives,drug_sales_Hypnotics and Sedatives Drugs,0.04902500898429903
+35,drug_sales_Salicylic Acid and Derivatives,drug_sales_Hypnotics and Sedatives Drugs,0.048147313268965625
+92,drug_sales_Drugs for Obstructive Airway Diseases,drug_sales_Salicylic Acid and Derivatives,0.04238331710773104
+7,drug_sales_Acetic Acid Derivatives,drug_sales_Antihistamines for systemic use,0.029943863183140653
+90,drug_sales_Drugs for Obstructive Airway Diseases,drug_sales_Acetic Acid Derivatives,0.029155814175001463
+200,death_counts_Respiratory diseases,drug_sales_Hypnotics and Sedatives Drugs,0.024306729132840304
+170,death_counts_Malignant neoplasms,drug_sales_Hypnotics and Sedatives Drugs,0.015418421551229553
+11,drug_sales_Acetic Acid Derivatives,death_counts_Malignant neoplasms,-0.04776905396392642
+180,death_counts_Other select causes,drug_sales_Acetic Acid Derivatives,-0.09328827011314497
+110,drug_sales_Antihistamines for systemic use,drug_sales_Hypnotics and Sedatives Drugs,-0.0982362505703929
+109,drug_sales_Antihistamines for systemic use,drug_sales_Anxiolytic Drugs,-0.10004512031945394
+150,death_counts_Circulatory diseases,drug_sales_Acetic Acid Derivatives,-0.11217991090722661
+14,drug_sales_Acetic Acid Derivatives,death_counts_total,-0.11525302209163822
+13,drug_sales_Acetic Acid Derivatives,death_counts_Respiratory diseases,-0.11877723362748265
+135,death_counts_Alzheimer disease and dementia,drug_sales_Acetic Acid Derivatives,-0.1253739278954765
+22,drug_sales_Propionic Acid Derivatives,drug_sales_Antihistamines for systemic use,-0.1378296387395682
+97,drug_sales_Drugs for Obstructive Airway Diseases,drug_sales_Antihistamines for systemic use,-0.15191307553372346
+107,drug_sales_Antihistamines for systemic use,drug_sales_Salicylic Acid and Derivatives,-0.1605157338728781
+118,drug_sales_Antihistamines for systemic use,death_counts_Respiratory diseases,-0.19602074639231484
+115,drug_sales_Antihistamines for systemic use,death_counts_Circulatory diseases,-0.2796982385134192
+217,death_counts_total,drug_sales_Antihistamines for systemic use,-0.2959532842664013
+187,death_counts_Other select causes,drug_sales_Antihistamines for systemic use,-0.3147184954880727
+127,drug_sales_total,drug_sales_Antihistamines for systemic use,-0.3232225621932584
+114,drug_sales_Antihistamines for systemic use,death_counts_Alzheimer disease and dementia,-0.35807144621698894
+116,drug_sales_Antihistamines for systemic use,death_counts_Malignant neoplasms,-0.4478306521409422
+108,drug_sales_Antihistamines for systemic use,drug_sales_Pyrazolones and Anilides,-0.47104248451348996
