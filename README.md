@@ -1,12 +1,16 @@
 # Project 1- Death Rates, Pharmaceutical Sales, and Pfizer Stock: A Correlation Analysis
 >
-### 1. This project aims to investigate potential correlations between death rates in the United States, Pfizer stock prices, and pharmaceutical sales. By examining these variables, we hope to gain insights into the factors that influence the pharmaceutical industry and public health. 
+### 1. Project Objectives:
 >
-## Considerations:
+>>This project aims to investigate potential correlations between death rates in the United States, Pfizer stock prices, and pharmaceutical sales. By examining these variables, we hope to gain insights into the factors that influence the pharmaceutical industry and public health. 
 >
->> Utilize reputable sources of data
+>> Considerations:
+>
+>> Utilize reputable sources of data:
 >>>Centers for Disease Control
+>
 >>>Kaggle
+>
 >>>Marketwatch
 >
 ### 2. Usage & Installation Instructions:
@@ -16,9 +20,13 @@
 >>The following libraries will need to be installed to properly run code: 
 >
 >>>Pandas
+>
 >>>JSON
+>
 >>>Matplotlib
+>
 >>>Seaborn
+>
 >>>Pathlib
 >
 ### 3. GitHub Structure:
@@ -28,9 +36,13 @@
 >>Branch Structure:
 >>>main
 >>>>Jessegunter
+>
 >>>>Rebeccabranch
+>
 >>>>RonakBranch
+>
 >>>>Tanyabranch
+>
 >>>>updated_graphs
 
 ### 4. Data Analysis:
@@ -39,8 +51,11 @@
 ### 5. Conclusions:
 >
 >>Conclusions were based on the strength of correlation coefficients. The following conclusions were determined:
+>
 >>>There is a positive correlation between total drug sales and total death counts.
+>
 >>>Overall drug sales and death counts experience seasonality, with both higher in the winter.
+>
 >>>There is a positive correlation between total death counts and Pfizer stock prices.
 
 ### 6. Notes:
