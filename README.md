@@ -1,25 +1,51 @@
-# Project1- Death Rates, Pharmaceutical Sales, and Pfizer Stock: A Correlation Analysis
-
-# Analyze death rates, pharmaceutical sales, and historical Pfizer stock price to identify potential correlations between these variables. 
+# Project 1- Death Rates, Pharmaceutical Sales, and Pfizer Stock: A Correlation Analysis
 >
-# Considerations:
+### 1. This project aims to investigate potential correlations between death rates in the United States, Pfizer stock prices, and pharmaceutical sales. By examining these variables, we hope to gain insights into the factors that influence the pharmaceutical industry and public health. 
+>
+## Considerations:
 >
 >> Utilize reputable sources of data
+>>>Centers for Disease Control
+>>>Kaggle
+>>>Marketwatch
 >
->> Clearly define hospitalization
+### 2. Usage & Installation Instructions:
 >
->> Specify types of conditions
+>>Our team utilized the Python programming language to complete this assignment. We worked in the Visual Studo Code editor along with Jupyter Notebook. 
 >
->> Specifiy types of medical devices
-# Usage & Installation Instructions:
+>>The following libraries will need to be installed to properly run code: 
 >
->>Install the following libraries:
+>>>Pandas
+>>>JSON
+>>>Matplotlib
+>>>Seaborn
+>>>Pathlib
 >
->Pandas
->json
->Matplotlib
->Seaborn
->pathlib as Path
+### 3. GitHub Structure:
+>
+>>GitHub repository was structured with a main branch and a branch for each contributor. Team members pushed updates to their branch and then generated a pull request for the team's review.
+>
+>>Branch Structure:
+>>>main
+>>>>Jessegunter
+>>>>Rebeccabranch
+>>>>RonakBranch
+>>>>Tanyabranch
+>>>>updated_graphs
 
-Review file number 1 titled " " or review files in order and number files?
+### 4. Data Analysis:
+>
+>>Data sets were pulled from legitimate data sites and then examined. We performed basic data cleaning steps such as renaming columns, addressing missing values, and data type consistency. Data frames were merged and analysed. Annotations were made to accompany code. We generated data visualizations to portray correlations. 
+### 5. Conclusions:
+>
+>>Conclusions were based on the strength of correlation coefficients. The following conclusions were determined:
+>>>There is a positive correlation between total drug sales and total death counts.
+>>>Overall drug sales and death counts experience seasonality, with both higher in the winter.
+>>>There is a positive correlation between total death counts and Pfizer stock prices.
+
+### 6. Notes:
+>
+>>This project was completed with the assistance of AskBCS and Xpert Learning Assistant
+
+
 
