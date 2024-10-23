@@ -8,10 +8,13 @@
 >
 >> Utilize reputable sources of data:
 >>>Centers for Disease Control
+>>>https://data.cdc.gov/NCHS/Weekly-Counts-of-Death-by-Jurisdiction-and-Select-/u6jv-9ijr/data_preview
 >
 >>>Kaggle
+>>>https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data?resource=download
 >
 >>>Marketwatch
+>>>https://www.marketwatch.com/investing/stock/pfe/download-data?startDate=01/01/2024&endDate=10/14/2024
 >
 ### 2. Usage & Installation Instructions:
 >
@@ -29,26 +32,24 @@
 >
 >>>Pathlib
 >
-### 3. GitHub Structure:
->
->>GitHub repository was structured with a main branch and a branch for each contributor. Team members pushed updates to their branch and then generated a pull request for the team's review.
->
->>Branch Structure:
->>>main
->>>>Jessegunter
->
->>>>Rebeccabranch
->
->>>>RonakBranch
->
->>>>Tanyabranch
->
->>>>updated_graphs
-
-### 4. Data Analysis:
+Order to Run Code:
+- First Run the individual Data Cleaning files:
+	- death_counts.ipynb
+		- data for death counts
+	- Pfizer stock/Pfizer.ipynb
+		- data for Pfizer stocks
+	- clean_weekly_sales_data.ipynb
+		- data for drug sales
+- Next run the merging files
+	- death_by_drug_sales.piynb
+		- combines data for drug sales and death counts
+	- death_count_pfizer.ipynb
+		- combines data for death counts and Pfizer stock
+:+1:
+### 3. Data Analysis:
 >
 >>Data sets were pulled from legitimate data sites and then examined. We performed basic data cleaning steps such as renaming columns, addressing missing values, and data type consistency. Data frames were merged and analysed. Annotations were made to accompany code. We generated data visualizations to portray correlations. 
-### 5. Conclusions:
+### 4. Conclusions:
 >
 >>Conclusions were based on the strength of correlation coefficients. The following conclusions were determined:
 >
@@ -58,7 +59,7 @@
 >
 >>>There is a positive correlation between total death counts and Pfizer stock prices.
 
-### 6. Notes:
+### 5. Notes:
 >
 >>This project was completed with the assistance of AskBCS and Xpert Learning Assistant
 
